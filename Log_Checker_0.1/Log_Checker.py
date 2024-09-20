@@ -2,9 +2,9 @@ import os
 import shutil
 
 log_dir = 'D:\Logs\Logs' # Directory containing the log files #P.S if there is an error change symbols '\' to '/'
-broken_logs_dir = os.path.join(log_dir, 'broken_logs')  # Directory to store the "broken" logs 
+broken_logs_dir = os.path.join(log_dir, 'broken_logs')  # Directory to store the 'broken' logs 
 
-# Create the 'broken_logs' directory if it doesn't exist
+# Create the 'broken_logs' directory folder if it doesn't exist
 if not os.path.exists(broken_logs_dir):
     os.makedirs(broken_logs_dir)
     print(f"Created directory: {broken_logs_dir}")
