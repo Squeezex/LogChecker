@@ -1,0 +1,4 @@
+1. Folder with '.log' files
+2. Change directory path in the script to your folder
+3. Python 3.8.10 #or newer, to check python version in cmd run 'py -V'
+4. Visual Studio Code with Python Extension to run a script
