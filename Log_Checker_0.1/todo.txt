@@ -1,0 +1,4 @@
+to do:
+1. fix debug print 
+2. check is there any way to avoid slash errors
+3. Create documentation
