@@ -1,4 +1,3 @@
 to do:
-1. fix debug print 
-2. check is there any way to avoid slash errors
-3. Create documentation
+1. Add customization to the script
+2. Add how to customize the script to confluence documentation
