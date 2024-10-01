@@ -5,7 +5,7 @@ from colorama import Fore, Style, init
 init()
 
 # Directory containing the log files
-log_dir = r'D:/Your_Folder_With_Logs' #Put your path to folder with logs instead of 'D:/Your_Folder_With_Logs', for example 'D:/Master/Logs'
+log_dir = r'D:/Logs' #Put your path to folder with logs instead of 'D:/Your_Folder_With_Logs', for example 'D:/Master/Logs'
 broken_logs_dir = os.path.join(log_dir, 'broken_logs')
 
 # List to store the names of all logs moved to 'broken_logs'
