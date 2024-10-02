@@ -1,3 +1,4 @@
+# Test (putting monitor and project logs in one folder)
 import os
 import shutil
 from colorama import Fore, Style, init
